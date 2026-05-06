@@ -28,6 +28,7 @@ I also used StandardScaler to scale the features. This was crucial because model
 ---
 
 3. Part 2 Algorithm Comparison
+---
 | Algorithm | Mean Accuracy | Std |
 | --------- | ------------- | --- |
 | Linear Classifier | 0.9857 | 0.0166 |
